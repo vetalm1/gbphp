@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\openserver\OSPanel\domains\gbphp\less8_HW\less8_HW.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/openserver/OSPanel/domains/gbphp/less8_HW]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/openserver/OSPanel/domains/gbphp/less8_HW]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1567163338348" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\goodcard.php"/>
+  <file crc="1566622439552" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php"/>
+  <file crc="1567154762815" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\js\ajaxRequest.js"/>
+  <file crc="1567074130013" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\css\style.css"/>
+  <file crc="1567163336764" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\user_room.php"/>
+  <file crc="1566905912862" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\registration_room.php"/>
+  <file crc="1567165496093" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\order_room.php"/>
+  <file crc="1567153212094" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\katalog.php"/>
+  <file crc="1566816067510" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\header.php"/>
+  <file crc="1567163686700" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\goods_control.php"/>
+  <file crc="1565865740044" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\footer.php"/>
+  <file crc="1567157138383" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\basket.php"/>
+  <file crc="1567163170893" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\public\auth_check.php"/>
+  <file crc="1566719137638" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\session_destroy.php"/>
+  <file crc="1566905613999" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\regUser.php"/>
+  <file crc="1567153529447" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\order_controller.php"/>
+  <file crc="1566900651152" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\login_controller.php"/>
+  <file crc="1567076124257" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\katalog_controller.php"/>
+  <file crc="1567162775398" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\goods_controller.php"/>
+  <file crc="1566712722209" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\getUser.php"/>
+  <file crc="1567157101592" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php"/>
+  <file crc="1569113835501" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\autoload.php"/>
+  <file crc="1565791716099" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\config\db_config\config.php"/>
+  <file crc="1565790178605" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\config\db_config\config.default.php"/>
+  <file crc="1567077082385" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\config\init.php"/>
+  <file crc="1565791711043" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\config\const.php"/>
+  <file crc="1567165568720" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\test.sql"/>
+  <file crc="1566902022117" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\login.php"/>
+  <file crc="1569113919021" name="C:\openserver\OSPanel\domains\gbphp\less8_HW\index.php"/>
+ </filescache>
+</project>

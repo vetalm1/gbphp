@@ -1,0 +1,79 @@
+
+<codestructure version="1.5">
+<phptree>
+<treenode node="../../engine/autoload.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f9;4;34;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../engine/autoload.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\registration_room.php;f9;1;31;1;;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\order_controller.php;f9;2;31;2;;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\goods_controller.php;f10;1;32;1;;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f10;1;32;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../engine/basket_controller.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\basket.php;f9;3;40;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../engine/goods_controller.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\goods_control.php;f9;2;39;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../engine/order_controller.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\order_room.php;f9;1;39;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../engine/session_destroy.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\user_room.php;f9;2;38;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CONFIG_DIR;PHP:PHP Word;C:\openserver\OSPanel\domains\gbphp\less8_HW\config\const.php;f8;5;18;5;;;;vpos;;v;;a;;rROOT_DIR.&apos;/config&apos;.DIRECTORY_SEPARATOR;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DS;PHP:PHP Word;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\goodcard.php;f9;2;12;2;;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f5;2;8;2;;;;vpos;;v;;a;;rDIRECTORY_SEPARATOR;;d-1,-1;;b0,5;;m0;;e">
+</treenode>
+<treenode node="ENGINE_DIR;PHP:PHP Word;C:\openserver\OSPanel\domains\gbphp\less8_HW\config\const.php;f8;4;18;4;;;;vpos;;v;;a;;r__DIR__.&apos;/../engine/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PUBLIC_DIR;PHP:PHP Word;C:\openserver\OSPanel\domains\gbphp\less8_HW\config\const.php;f8;3;18;3;;;;vpos;;v;;a;;r__DIR__.&apos;/../public/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ROOT_DIR;PHP:PHP Word;C:\openserver\OSPanel\domains\gbphp\less8_HW\config\const.php;f8;2;16;2;;;;vpos;;v;;a;;r__DIR__.&apos;/../&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="crud.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\goodcard.php;f13;6;21;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="engine/autoload.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\login.php;f9;2;28;2;;C:\openserver\OSPanel\domains\gbphp\less8_HW\index.php;f9;2;28;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="header.php;PHP:PHP Include;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\user_room.php;f9;3;19;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="addToBasket;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f0;21;1;28;;;;vpos;;v;;a;;r;;d46,21;;b0,0;;m0;;eid;;pgood_name;;pprice;;p">
+</treenode>
+<treenode node="addToGoodsList;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\goods_controller.php;f0;7;1;13;;;;vpos;;v;;a;;r;;d58,7;;b0,0;;m0;;egood_name;;pdescription;;pprice;;p">
+</treenode>
+<treenode node="addToOrders;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f0;60;1;77;;;;vpos;;v;;a;;r;;d28,60;;b0,0;;m0;;esumm;;p">
+</treenode>
+<treenode node="autoload;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\autoload.php;f0;2;1;19;;;;vpos;;v;;a;;r;;d43,2;;b0,0;;m0;;edir;;pexcludeFiles;;p">
+</treenode>
+<treenode node="delAll;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;34;49;34;;;;vpos;;v;;a;;r;;d47,34;;b0,0;;m0;;eid;;pname;;pcomment;;ptable;;p">
+</treenode>
+<treenode node="delFromBasket;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f0;51;1;58;;;;vpos;;v;;a;;r;;d29,51;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="delFromGoodsList;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\goods_controller.php;f0;15;1;21;;;;vpos;;v;;a;;r;;d32,15;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getUser;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\getUser.php;f0;1;1;9;;;;vpos;;v;;a;;r;;d25,1;;b0,0;;m0;;elogin;;p">
+</treenode>
+<treenode node="insertComment;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;24;1;29;;;;vpos;;v;;a;;r;;d46,24;;b0,0;;m0;;eid;;pname;;pcomment;;p">
+</treenode>
+<treenode node="insertGood;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;31;45;31;;;;vpos;;v;;a;;r;;d43,31;;b0,0;;m0;;eid;;pname;;pcomment;;p">
+</treenode>
+<treenode node="myDbConnect;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\config\init.php;f0;2;1;23;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="orderDone;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\order_controller.php;f0;19;1;23;;;;vpos;;v;;a;;r;;d31,19;;b0,0;;m0;;eid;;pname;;p">
+</treenode>
+<treenode node="regUser;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\regUser.php;f0;1;1;9;;;;vpos;;v;;a;;r;;d36,1;;b0,0;;m0;;elogin;;ppassword;;p">
+</treenode>
+<treenode node="save;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\login_controller.php;f0;7;1;9;;;;vpos;;v;;a;;r;;d21,7;;b0,0;;m0;;edata;;p">
+</treenode>
+<treenode node="selectById;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;11;1;20;;;;vpos;;v;;a;;r;;d42,11;;b0,0;;m0;;eid;;ptable;;p">
+</treenode>
+<treenode node="selectByOrder;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f0;40;1;49;;;;vpos;;v;;a;;r;;d36,40;;b0,0;;m0;;eorderId;;p">
+</treenode>
+<treenode node="selectByUser;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\basket_controller.php;f0;30;1;39;;;;vpos;;v;;a;;r;;d24,30;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selectGoods;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\goods_controller.php;f0;24;1;33;;;;vpos;;v;;a;;r;;d23,24;;b0,0;;m0;;e">
+</treenode>
+<treenode node="selectOrders;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\engine\order_controller.php;f0;26;1;35;;;;vpos;;v;;a;;r;;d24,26;;b0,0;;m0;;e">
+</treenode>
+<treenode node="updateComment;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;32;48;32;;;;vpos;;v;;a;;r;;d46,32;;b0,0;;m0;;eid;;pname;;pcomment;;p">
+</treenode>
+<treenode node="updateGood;PHP:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\moduls\crud.php;f0;33;45;33;;;;vpos;;v;;a;;r;;d43,33;;b0,0;;m0;;eid;;pname;;pcomment;;p">
+</treenode>
+</phptree>
+<jstree>
+<treenode node="getdetails;JS:Function Name;C:\openserver\OSPanel\domains\gbphp\less8_HW\public\js\ajaxRequest.js;f0;2;1;12;;;;vpos;;v;;a;;r;;d50,2;;b0,0;;m0;;eid;;pname;;pprice;;paction;;ppath;;p">
+</treenode>
+</jstree>
+</codestructure>

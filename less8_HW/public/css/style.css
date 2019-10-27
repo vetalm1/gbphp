@@ -1,0 +1,49 @@
+.galery {
+    margin: 50px auto;
+    padding: 30px 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.galery a {
+    padding: 5px;
+}
+.small-pic {
+    width: 100px;
+    height: 100px;
+}
+.galery p {
+    text-align: center;
+    color: gray;
+}
+.img-ico {
+    width: 10px;
+    height: 10px;
+}
+
+.small-pic:hover {
+    opacity: 0.5;
+}
+
+.modal-wind {
+    position: relative;
+}
+.modal-img {
+    display: block;
+    position: absolute;
+    top: -450px;
+    left: 550px;
+    border: 1px solid lightgray;
+}
+.modal-img:hover {
+    border: 1px solid gray;
+}
+
+.form-control {
+    width: 250px;
+}
